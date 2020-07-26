@@ -1,9 +1,11 @@
-<center><img src="img/agricorplong.png" width="300px"/></center>
+<div align=center><img src="img/agricorplong.png" width="300px"/></div>
 
 <h4 align="center">
   中国农业产业企业、数据、信息收集
 </h4>
-<img alt="APM" src="https://img.shields.io/apm/l/github" align="middle">
+<div align=center>
+	<img alt="APM" src="https://img.shields.io/apm/l/github">
+	</div>
 
 <p align="center">
   <a href="#企业">企业</a> •

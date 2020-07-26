@@ -1,15 +1,33 @@
-![agricorplong](./img/agricorplong.png)
+<img src="img/agricorplong.png" width="300px"/>
 
-**中国农产品企业、渠道资料搜集**
+<h4 align="center">
+  中国农业产业企业、数据、信息收集
+</h4>
+![License](https://img.shields.io/github/license/day8/re-frame.svg)
 
 
+<p align="center">
+  <a href="#企业">企业</a> •
+  <a href="#数据/报告">数据/报告</a> •
+  <a href="#媒体/公众号">媒体/公众号</a> •
+  <a href="#政策/法规">政策/法规 •
+  <a href="#人物/机构">人物/机构</a> •
+  <a href="#会议">会议</a> •
+  <a href="#其他">其他</a> •
+</p>
 
-## 企业
+# 企业
+
 * [上市企业](./listed-company.md)
 
+# 数据/报告
 
+# 媒体/公众号
 
-## 数据
+# 政策/法规
 
+# 人物/机构
 
+# 会议
 
+# 其他

@@ -8,5 +8,5 @@
 
 ## 企业
 
-* [上市企业](./public-company.md)
+* [上市企业](./listed-company.md)
 

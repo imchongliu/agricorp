@@ -1,4 +1,4 @@
----
+﻿---
 title: 果酒产业
 created: '2020-07-28T06:38:06.306Z'
 modified: '2020-07-28T07:08:57.981Z'
@@ -13,7 +13,9 @@ modified: '2020-07-28T07:08:57.981Z'
 * clot 山东青岛的苹果酒创业品牌
   * 品牌简介：[品牌故事丨你好，这里是CLOT cider](https://mp.weixin.qq.com/s/v-vfiTDnUyW7TBqYdXBzUw)
   * 同程资本的一份考察：[「投资人笔记」Clot cider：专注为年轻女性用户调制的苹果配置酒](https://mp.weixin.qq.com/s/Hp-cZcvIXadTwuv2LANxoQ)
+
 ### 依附于大厂如茅台的品牌
+
 ### 依附农产品产地的品牌
 
 ## 行业观察
